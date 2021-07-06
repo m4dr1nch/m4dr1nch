@@ -1,8 +1,5 @@
 
 # Hello _madrins here!
-
-![](https://tryhackme-badges.s3.amazonaws.com/madrinch.png)
-
 #### Won't find much here still work-in-progress...
 ---
 
